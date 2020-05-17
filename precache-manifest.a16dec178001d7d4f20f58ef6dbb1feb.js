@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a502dfe2b361e696d892c03bb0dc137",
+    "revision": "c6c820253631fe0cedce6f1c82510ab6",
     "url": "/movies-series-info/index.html"
   },
   {
-    "revision": "c95190e5c12cd480bb81",
-    "url": "/movies-series-info/static/css/main.0d7c4b80.chunk.css"
+    "revision": "e2e5d69c47cfe9e65ebb",
+    "url": "/movies-series-info/static/css/main.c187edaa.chunk.css"
   },
   {
     "revision": "ee73d46be38a192c0bfa",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/movies-series-info/static/js/2.867816f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c95190e5c12cd480bb81",
+    "revision": "e2e5d69c47cfe9e65ebb",
     "url": "/movies-series-info/static/js/main.6ba8f6e7.chunk.js"
   },
   {
